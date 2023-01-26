@@ -2,6 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/5311mavcbsanaa3v?svg=true)](https://ci.appveyor.com/project/HelgaRoosh/ra-1-1-funccomponent)
 
+https://helgaroosh.github.io/Ra_1_1_funccomponent/
 ===
 
 Необходимо создать React-компонент `ShopItemFunc` (функциональный компонент), с помощью которого мы могли бы реализовывать представление информации о товарах из нашего каталога на сайте в таком виде (компонент обведён пунктирной линией):
